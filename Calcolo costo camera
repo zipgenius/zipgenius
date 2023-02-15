@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-15T11:42:37.207Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.41" etag="i4H6W4fmrGDSijEAGGkT" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-15T11:43:25.933Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.41" etag="IsqUFHdKacy-69dMaC48" version="20.8.20" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="925" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,9 +19,14 @@
         <mxCell id="qyJG9CVl5APdwbuwiWHT-2" value="Salvo il valore in &quot;giorni&quot;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="309" y="230" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qyJG9CVl5APdwbuwiWHT-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qyJG9CVl5APdwbuwiWHT-3" target="qyJG9CVl5APdwbuwiWHT-5">
+        <mxCell id="qyJG9CVl5APdwbuwiWHT-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.442;exitY=1.015;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qyJG9CVl5APdwbuwiWHT-3" target="qyJG9CVl5APdwbuwiWHT-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="125" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="378" />
+              <mxPoint x="400" y="440" />
+              <mxPoint x="120" y="440" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="qyJG9CVl5APdwbuwiWHT-3" value="Chiedo il piano della camera&lt;br&gt;(var &quot;piano&quot;)" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
