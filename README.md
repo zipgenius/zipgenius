@@ -1,5 +1,5 @@
 Hi, this is **The ZipGenius Team** official repository.
-We are the creator of **ZipGenius** (https://www.zipgenius.com) and **Czip X** (https://www.czip.it).
+We are the creator of **ZipGenius** (https://www.zipgenius.it) and **Czip X** (https://www.czip.it).
 We're looking forward to fill this space with some of our projects.
 
 See you soon with some of our code.
